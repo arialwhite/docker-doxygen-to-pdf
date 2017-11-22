@@ -2,7 +2,7 @@
 
 ## Installation
 
-Note: This image use tex distribution Miktex
+Note: This image use tex distribution texlive
 
 ```
 git clone https://github.com/arialwhite/docker-doxygen-to-pdf.git
